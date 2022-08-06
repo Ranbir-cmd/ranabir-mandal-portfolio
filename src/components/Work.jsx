@@ -39,7 +39,7 @@ const Work = () => {
       descriptionBody:
         "Postman is an API platform for building and using APIs. In our app user can make two types of HTTP requests: GET, POST and can read their responses",
       tech: "React | Material UI ",
-      liveProject: "https://astonishing-horse-f73dbb.netlify.app/",
+      liveProject: "https://ranbir-cmd.github.io/postman-clone/",
       gitProject: "https://github.com/Ranbir-cmd/postman-clone",
     },
     {
