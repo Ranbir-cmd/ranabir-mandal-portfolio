@@ -42,7 +42,7 @@ const Social = () => {
             <p className="text-base">Resume</p>
           </div>
           <a
-            href="https://www.youtube.com/channel/UCvhkYQ75NPIvaz04PDZ0CxA"
+            href="https://drive.google.com/file/d/1T-LNKT9QVM2CR-2Yz9eeOKaWN1UasW7i/view?usp=sharing"
             target={"_blank"}
           >
             <BsFillPersonLinesFill />
