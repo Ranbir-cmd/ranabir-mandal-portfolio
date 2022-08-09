@@ -42,7 +42,7 @@ const Social = () => {
           <div className="hidden lg:block absolute right-14 bottom-1 group-hover:opacity-80 duration-300 opacity-0 py-2 px-3 bg-[#C4302B] rounded-full">
             <p className="text-base">Resume</p>
           </div>
-          <a href={resume} download="true">
+          <a href={resume} download="Ranabir Mandal Resume">
             <BsFillPersonLinesFill />
           </a>
         </li>
