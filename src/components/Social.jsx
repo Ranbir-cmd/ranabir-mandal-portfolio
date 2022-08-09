@@ -41,10 +41,7 @@ const Social = () => {
           <div className="hidden lg:block absolute right-14 bottom-1 group-hover:opacity-80 duration-300 opacity-0 py-2 px-3 bg-[#C4302B] rounded-full">
             <p className="text-base">Resume</p>
           </div>
-          <a
-            href="https://drive.google.com/file/d/1C5U9VCKQ_BaLhr-qJAVt3lK8v31NWN5l/view?usp=sharing"
-            target={"_blank"}
-          >
+          <a href="/RanabirMandalResumePdf.pdf" download={true}>
             <BsFillPersonLinesFill />
           </a>
         </li>
