@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/ranabir-mandal-portfolio/static/css/main.63c85435.css",
-    "main.js": "/ranabir-mandal-portfolio/static/js/main.f4336944.js",
+    "main.js": "/ranabir-mandal-portfolio/static/js/main.d2f9ff86.js",
     "static/js/787.1ed0c42c.chunk.js": "/ranabir-mandal-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/home_anime.gif": "/ranabir-mandal-portfolio/static/media/home_anime.f372ef867ab6dc71a52b.gif",
     "static/media/ScreenshotFlipkart.png": "/ranabir-mandal-portfolio/static/media/ScreenshotFlipkart.89a0086f19e4eb7e9f19.png",
+    "static/media/RanabirMandalResumePdf.pdf": "/ranabir-mandal-portfolio/static/media/RanabirMandalResumePdf.106411c04328bb13b273.pdf",
     "static/media/ScreenshotRealtime.png": "/ranabir-mandal-portfolio/static/media/ScreenshotRealtime.b0c5403b13aea94d2f6c.png",
     "static/media/ScreenshotPostman.png": "/ranabir-mandal-portfolio/static/media/ScreenshotPostman.e8c78b8a29e26b139af4.png",
     "static/media/ScreenshotGKeep.png": "/ranabir-mandal-portfolio/static/media/ScreenshotGKeep.799246e37f7d6f555f38.png",
     "index.html": "/ranabir-mandal-portfolio/index.html",
     "main.63c85435.css.map": "/ranabir-mandal-portfolio/static/css/main.63c85435.css.map",
-    "main.f4336944.js.map": "/ranabir-mandal-portfolio/static/js/main.f4336944.js.map",
+    "main.d2f9ff86.js.map": "/ranabir-mandal-portfolio/static/js/main.d2f9ff86.js.map",
     "787.1ed0c42c.chunk.js.map": "/ranabir-mandal-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63c85435.css",
-    "static/js/main.f4336944.js"
+    "static/js/main.d2f9ff86.js"
   ]
 }
